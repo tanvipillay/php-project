@@ -1,8 +1,6 @@
 
 📌 Project Overview
-
 This project focuses on deploying a PHP-based web application on a Linux server hosted on Amazon Web Services (AWS) EC2.
-
 The project involves preparing the server environment, configuring a web server, setting up a database, and understanding how the different components work together to support a web application.
 
 🎯 Objectives
@@ -46,8 +44,6 @@ The application environment consists of the following components:
 7. Test the application through a web browser.
 8. Upload the project code to GitHub.
 
-Note: Include only the steps that you have actually completed.
-
 🚀 Learning Outcomes
 
 * Basic AWS EC2 instance management.
@@ -57,3 +53,11 @@ Note: Include only the steps that you have actually completed.
 * Database setup fundamentals.
 * Git and GitHub workflow.
 * Troubleshooting common deployment issues.
+* 
+📸 Project Screenshots
+
+1. PHP Application Output
+
+2. Signup Page
+
+3. GitHub Repository

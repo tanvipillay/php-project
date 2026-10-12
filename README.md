@@ -54,10 +54,3 @@ The application environment consists of the following components:
 * Git and GitHub workflow.
 * Troubleshooting common deployment issues.
   
-📸 Project Screenshots
-
-1. PHP Application Output
-
-2. Signup Page
-
-3. GitHub Repository

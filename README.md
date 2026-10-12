@@ -53,7 +53,7 @@ The application environment consists of the following components:
 * Database setup fundamentals.
 * Git and GitHub workflow.
 * Troubleshooting common deployment issues.
-* 
+  
 📸 Project Screenshots
 
 1. PHP Application Output
